@@ -9,3 +9,6 @@ desktop.ini
 
 # 日志
 *.log
+
+# 开发记录（运行状态，不进学习包）
+.workbuddy/memory/
